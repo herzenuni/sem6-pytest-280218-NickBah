@@ -1,0 +1,8 @@
+{
+  "test_hypo.py::test_sort": true,
+  "test_param.py::TestUM::()": true,
+  "test_param.py::test_our_func[Fourth test]": true,
+  "test_param.py::test_strange_string_func[Third test]": true,
+  "test_param.py::test_strange_string_func[\\u0422\\u0440\\u0435\\u0442\\u0438\\u0439 \\u0442\\u0435\\u0441\\u0442]": true,
+  "test_param.py::test_strange_string_func[param_test2]": true
+}
